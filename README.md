@@ -1,1 +1,3 @@
-# goit-marup-hw-01
+# goit-markup-hw-01
+HW1
+HW1_1
